@@ -1,2 +1,2 @@
 # preenchedor_de_formularios
- Coletar as informações de uma planilha, preencher um formulário on-line e salvá-lo.
+ Coletar várias informações de uma planilha, para cada linha, preencher um formulário on-line e salvá-los.
